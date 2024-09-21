@@ -1,0 +1,37 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:501e16ca-f45c-4a0c-9a9f-8a270a9f2ed6</distributor>
+  <operatorURL>http://rps2images.ebscohost.com/fulfillment</operatorURL>
+  <transaction>s4264928:25953331:1809145:1648169358061:1184022606</transaction>
+  <expiration>2022-03-25T02:49:18-04:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:e05e43e5-190b-4705-a0b3-f43cbfacbd29</resource>
+    <resourceItem>0</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">Operating Systems</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Garg, R.,Verma, G.</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Stylus Publishing</dc:publisher>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:e05e43e5-190b-4705-a0b3-f43cbfacbd29</resource>
+      <permissions>
+        <display>
+          <until>2022-05-19T21:32:18-04:00</until>
+        </display>
+        <excerpt>
+          <until>2022-05-19T21:32:18-04:00</until>
+          <count initial="100"/>
+        </excerpt>
+        <print>
+          <until>2022-05-19T21:32:18-04:00</until>
+          <count initial="100"/>
+        </print>
+        <play>
+          <until>2022-05-19T21:32:18-04:00</until>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>lU+NRWZjnkoNLlCszDHuAtUCpKE=</hmac>
+</fulfillmentToken>
